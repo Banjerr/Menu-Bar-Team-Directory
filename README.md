@@ -6,7 +6,7 @@ Type in a name, get back their email address/skype name
 
 # Demo
 
-<img src="https://dl.dropboxusercontent.com/s/u0ijszcgjemj3h0/AA07818F-10A5-46FC-9E4B-E83784F6C7DA-995-0000216437A3F808.gif?dl=0" alt="Demo">
+![Menu bar Team Directory Demo](https://dl.dropboxusercontent.com/s/u0ijszcgjemj3h0/AA07818F-10A5-46FC-9E4B-E83784F6C7DA-995-0000216437A3F808.gif?dl=0)
 
 ## Contributing
 
