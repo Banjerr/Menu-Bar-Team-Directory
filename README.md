@@ -1,4 +1,4 @@
-# GUW Email Directory
+# Menu Bar Team Directory
 
 Type in a name, get back their email address/skype name
 
