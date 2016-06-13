@@ -1,7 +1,7 @@
 const electron = require('electron')
 var menubar = require('menubar')
-var mb = menubar(options = {
-  icon: './images/guwLogo.png'
+var mb = menubar({
+  icon: __dirname + '/images/guwLogo.png'
 });
 
 // Module to control application life.
