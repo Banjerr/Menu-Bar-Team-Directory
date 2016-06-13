@@ -4,6 +4,8 @@ Type in a name, get back their email address/skype name
 
 ## Weee
 
+[(☞ﾟ∀ﾟ)☞ v1.0.0](https://github.com/Banjerr/Menu-Bar-Team-Directory/releases)
+
 Executables (both 32 and 64 architechture) are in this repo for Win, OS X, and Linux machines. Checkem out (haven't tested this on Win/Linux machines at the time of this README.md update)
 
 # Demo (old screen capture of OS X version, now includes cool GUW icon instead of Electron icon)
