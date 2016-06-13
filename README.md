@@ -22,3 +22,5 @@ If you'd like to contribute, feel free to fork this and create a new feature bra
 ## Issues
 
 Feel free to open up an issue if you see one, you can also add feature suggestions there.
+
+### Built with Electron, ES6, Angular.js, Node.js, HTML/SASS(CSS), and the limited Infusionsoft REST API
