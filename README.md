@@ -14,7 +14,7 @@ Executables (both 32 and 64 architechture) are in this repo for Win, OS X, and L
 
 If you'd like to contribute, feel free to fork this and create a new feature branch and make a pull request. Here's some cool thoughts I had for improvements...
 
-    - use the Teamwork API to get email addresses (https://getuwiredinc.teamwork.com/people.json)    
+    - use the Teamwork API to get email addresses (https://company.teamwork.com/people.json)    
     - ability to add name/email contacts in the app
     - ability to delete contacts in the app
     - maybe get Squirrel update thing going?
